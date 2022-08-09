@@ -1,0 +1,12 @@
+name: /Volumes/KINGSTON/Sebastian/DataScience/CoderHouse/ProyectoFinal
+channels:
+  - defaults
+dependencies:
+  - statsmodels
+  - scikit-learn
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - ipykernel
+prefix: /Volumes/KINGSTON/Sebastian/DataScience/CoderHouse/ProyectoFinal
